@@ -11,4 +11,7 @@ I am also passionate about data visualization, and enjoy creating interactive da
 ![Data Science]([https://media.giphy.com/media/3o7TKxvUJb1q6q1Udu/giphy.gif](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-zMukICnMEZmSf8zvXd))
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/zMukICnMEZmSf8zvXd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-zMukICnMEZmSf8zvXd">via GIPHY</a></p>
 
+![Gif](https://giphy.com/embed/zMukICnMEZmSf8zvXd)
+
+
 If you're interested in collaborating on a data science project or just want to connect, feel free to send me a message!
