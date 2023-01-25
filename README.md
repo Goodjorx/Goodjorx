@@ -1,5 +1,6 @@
 
-p align="center">
+<p align="center">
+    <a href="https://navendu.me"><img src="https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.png" alt="banner" href=""></a>
   <a href="https://www.linkedin.com/in/jordisegurapons/"><img src="https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/navendup/"></a>
   </br>
 </p>
