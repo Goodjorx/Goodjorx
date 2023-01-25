@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jordisegurapons/"><img src="https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.png" alt="banner" href=""></a>
-  <a href="https://www.linkedin.com/in/jordisegurapons/"><img src="https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/navendup/"></a>
+  <a href="https://www.linkedin.com/in/jordisegurapons/"><img src="https://img.shields.io/badge/LinkedIn-Jordi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/jordisegurapons/"></a>
   </br>
 </p>
 
