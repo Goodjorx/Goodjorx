@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Goodjorx 👋 
 
-Data Scientist working in Schneider Electric and with a Master in Data Science Native things—particularly Service Meshes and API Gateways.
+Data Scientist working in Schneider Electric and with a Master in Data Science by the University of Barcelona. 
 
 I specialize in utilizing machine learning techniques to extract insights from complex data sets, and have experience working with a variety of programming languages including Python, C, and SQL.
 
